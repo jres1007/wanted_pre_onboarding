@@ -12,12 +12,12 @@ const App = () => {
       <div id="container">
         <div id="title">React Custom Component</div>
         <div className="box">
-          <div className="sub_title">Modal</div>
-          <Modal />
-        </div>
-        <div className="box">
           <div className="sub_title">Toggle</div>
           <Toggle />
+        </div>
+        <div className="box">
+          <div className="sub_title">Modal</div>
+          <Modal />
         </div>
         <div className="box">
           <div className="sub_title">Tab</div>
