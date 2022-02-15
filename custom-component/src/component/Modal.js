@@ -30,7 +30,7 @@ export const ModalBtn = styled.button`
 `;
 
 export const ModalView = styled.div.attrs((props) => ({
-  // attrs 메소드를 이용해서 아래와 같이 div 엘리먼트에 속성을 추가할 수 있습니다.
+  // attrs 메소드를 이용해서 아래와 같이 div 엘리먼트에 속성을 추가
   role: "dialog",
 }))`
   border-radius: 10px;
