@@ -3,12 +3,12 @@
    
    
 ## Navigator   
-1. [Toggle](https://github.com/jres1007/wanted_pre_onboarding/main/README.md#1toggle)   
-2. [Modal](https://github.com/jres1007/wanted_pre_onboarding/main/README.md#2modal)   
-3. [Tab](https://github.com/jres1007/wanted_pre_onboarding/main/README.md#3tab)   
-4. [Tag](https://github.com/jres1007/wanted_pre_onboarding/main/README.md#4tag)   
-5. [AutoComplete](https://github.com/jres1007/wanted_pre_onboarding/main/README.md#5autocomplete)   
-6. [ClickToEdit](https://github.com/jres1007/wanted_pre_onboarding/main/README.md#6clicktoedit)   
+1. [Toggle](https://github.com/jres1007/wanted_pre_onboarding#1toggle)   
+2. [Modal](https://github.com/jres1007/wanted_pre_onboarding#2modal)   
+3. [Tab](https://github.com/jres1007/wanted_pre_onboarding#3tab)   
+4. [Tag](https://github.com/jres1007/wanted_pre_onboarding#4tag)   
+5. [AutoComplete](https://github.com/jres1007/wanted_pre_onboarding#5autocomplete)   
+6. [ClickToEdit](https://github.com/jres1007/wanted_pre_onboarding#6clicktoedit)   
 
 ## 1. Toggle
 
